@@ -32,7 +32,7 @@ def get_filters():
             
     """get user input for month (all, january, february, ... , june)"""
 
-    month = input('Do you want to skip month\'s filter? type (all) if you want no filter or press ENTER to continue\n').lower()
+    month = input('Do you want to skip month\'s filter? type (all) if you want no filter or press ENTER to continue and select the month filters.\n').lower()
     
     while month != 'all':
         month = input('Please write the month of which you want to know the data: January, February, March, April, May, or June\n').lower()
