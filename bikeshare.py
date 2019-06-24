@@ -35,8 +35,8 @@ def get_filters():
     month = input('Do you want to skip month\'s filter? type (all) if you want no filter or press ENTER to continue\n').lower()
     
     while month != 'all':
-        month = input('Please write the month of which you want to know the data: January, February, March, April, May, or June\n')
-        month = month.lower()
+        month = input('Please write the month of which you want to know the data: January, February, March, April, May, or June\n').lower()
+        
         if month not in ['january', 'february', 'march', 'april', 'may', 'june']:
             print('Ooops! There seems to be an error.\n')
         else:
