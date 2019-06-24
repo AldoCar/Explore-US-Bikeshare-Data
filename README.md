@@ -37,7 +37,13 @@ earliest, most recent, most common year of birth (only available for NYC and Chi
 
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Used stackoverflow to get info and complete my tasks
+
+https://stackoverflow.com/questions/48590268/pandas-get-the-most-frequent-values-of-a-column
+
+used "Concetti di informatica e fondamenti di Python" ( Cay Horstmann, Rance D.Necaise)
