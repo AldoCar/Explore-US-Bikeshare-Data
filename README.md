@@ -30,9 +30,9 @@ The data that can be displayed are the following:
 
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ### Credits
 Used stackoverflow to get info and complete my tasks
